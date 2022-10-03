@@ -39,6 +39,9 @@ function getStoredTasks() {
 
 // Keep task input bars hidden while allowing the one you clicked to be visible.
 $(".to-do").on("click", function () {
+    $(".save-button").each(function (index, element) {
+        element.style.opacity = 0.2;
+    })
 
     $(this).parent().children(".save-button")[0].style.opacity = 1;
 
@@ -52,12 +55,11 @@ $(".to-do").on("click", function () {
 
 
 $(".save-button").on("click", function () {
-    // Return save buttons to .7 opacity after saving task.
     $(".save-button").each(function (_index, element) {
         element.style.opacity = (0.7);
     })
 
-// Allow form input on the timeblocks that are clicked, and save the input.
+// Allow the timeblocks that are clicked to save the input.
     var currentTaskForm = $(this).parent().children(".to-do").children(".form-control")[0];
 
     var currentP = $(this).parent().children(".to-do").children(".display-text")[0];

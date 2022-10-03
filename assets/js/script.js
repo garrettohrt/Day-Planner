@@ -59,7 +59,7 @@ $(".save-button").on("click", function () {
         element.style.opacity = (0.7);
     })
 
-// Allow the timeblocks that are clicked to save the input.
+    // Allow the timeblocks that are clicked to save the input.
     var currentTaskForm = $(this).parent().children(".to-do").children(".form-control")[0];
 
     var currentP = $(this).parent().children(".to-do").children(".display-text")[0];

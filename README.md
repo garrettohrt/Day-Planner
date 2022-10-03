@@ -23,7 +23,7 @@ Clicking on a timeblock allows you to save a task in the input. All inputs are s
 
 Garrett Ohrt - garrettohrt@gmail.com
 
-Project Link: [https://garrettohrt.github.io/JavaScript-Quiz/](https://garrettohrt.github.io/JavaScript-Quiz/)
+Project Link: [https://garrettohrt.github.io/Day-Planner/](https://garrettohrt.github.io/Day-Planner/)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>

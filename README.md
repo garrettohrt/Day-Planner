@@ -4,7 +4,7 @@
 ![_Users_garrettbootcamp_Challenge-05_Day-Planner_index html](https://user-images.githubusercontent.com/109110256/193668034-247be871-9768-4a32-89a5-bf9e631c0030.png)
 
 ## About The Project
-This project was about taking starter code and creating a functioning work day scheduler while using Bootstrap and moment.js.
+This project was about taking starter code and create a functioning work day scheduler while using Bootstrap and moment.js.
 
 
 

@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 
 <!-- ABOUT THE PROJECT -->
-![_Users_garrettbootcamp_ch4_index html](https://user-images.githubusercontent.com/109110256/192369079-3fa368d7-5d75-4f8f-9ce7-7e38eae83738.png)
+![_Users_garrettbootcamp_Challenge-05_Day-Planner_index html](https://user-images.githubusercontent.com/109110256/193668034-247be871-9768-4a32-89a5-bf9e631c0030.png)
 
 ## About The Project
 This project was about taking starter code and creating a functioning work day scheduler while using Bootstrap and moment.js.
